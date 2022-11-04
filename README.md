@@ -1,6 +1,6 @@
 <div align=center>
 
-# [Converting MFC Application <br>into Chromium Project Browser Process](https://github.com/TangramDev/.github/blob/main/document/mfcexe.md)
+# Enable your <i>MFC Application</i> to Support <i><ins>Web Runtime</ins></i>
   
 <div align=center>
 
